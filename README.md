@@ -81,7 +81,7 @@ Como no se pueden ignorar carpetas vacías, se procede del siguiente modo:
 **git merge v0.2**
 
 Da fallo por conflicto:
-![merge con conflicto](https://github.com/alfonsops/campusciff/tree/master/Capturas/conflicto.png)
+![merge con conflicto](https://github.com/alfonsops/campusciff/blob/master/Capturas/conflicto.png)
 
 ## 4
 **git branch --merged**
