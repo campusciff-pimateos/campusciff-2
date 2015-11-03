@@ -135,14 +135,14 @@ Realizado (se puede comprobar en GitHub)
 
 # Ejercicio 2.12
 |NOMBRE | GITHUB |
- |-----------|-----------|  
- |Rodrigo Marcos Carvajal  |[Rodrigo](https://github.com/romcra)|
- |Borja Moreno Pozo    | [Borja](https://github.com/bmpozo)   |
- |Carlos Saiz|[Carlos](https://github.com/Carsaiz)|
- |Juan José Diaz|[Juan](https://github.com/jjdiazl)|
+|-----------|-----------|  
+|Rodrigo Marcos Carvajal  |[Rodrigo](https://github.com/romcra)|
+|Borja Moreno Pozo    | [Borja](https://github.com/bmpozo)   |
+|Carlos Saiz|[Carlos](https://github.com/Carsaiz)|
+|Juan José Diaz|[Juan](https://github.com/jjdiazl)|
  |Ramón Márquez|[Ramón](https://github.com/marquezjr)|
- |Fran Rivas|[Fran](https://github.com/jrivax)|
- |Marcos|[Marcos](https://github.com/marcoscortina)
+|Fran Rivas|[Fran](https://github.com/jrivax)|
+|Marcos|[Marcos](https://github.com/marcoscortina)
 
 # Ejercicio 2.13
 Añadido (se puede comprobar en GitHub)
