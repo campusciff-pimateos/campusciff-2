@@ -238,6 +238,6 @@ Se vuelve a la rama master y se realiza:
 
 ![cambios finales3](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales3.png)
 
-![cambios finales4](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales4.png)
+![cambios finales4](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales4.png)
 
 Se realiza un git add final para los archivos restantes y commit. A continuación, se realiza **git push origin master**
