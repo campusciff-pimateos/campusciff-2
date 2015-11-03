@@ -81,30 +81,30 @@ Como no se pueden ignorar carpetas vacías, se procede del siguiente modo:
 **git merge v0.2**
 
 Da fallo por conflicto:
-![merge con conflicto](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\conflicto.png)
+![merge con conflicto](https://github.com/alfonsops/campusciff/tree/master/Capturas/conflicto.png)
 
 ## 4
 **git branch --merged**
 
 Se obtiene la rama master:
-![ramas con merge](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\ramas con merge.png)
+![ramas con merge](https://github.com/alfonsops/campusciff/tree/master/Capturas/ramas con merge.png)
 
 **git branch --no-merged**
 
 Se obtiene la rama v0.2:
-![ramas sin merge](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\ramas sin merge.png)
+![ramas sin merge](https://github.com/alfonsops/campusciff/tree/master/Capturas/ramas sin merge.png)
 
 ## 5
 **vim 1.txt**
 
 A continuación, se edita el archivo de la siguiente forma:
-![modificado archivo con conflicto](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\modificado archivo con conflicto.png)
+![modificado archivo con conflicto](https://github.com/alfonsops/campusciff/tree/master/Capturas/modificado archivo con conflicto.png)
 
 **git add 1.txt**
 
 **git commit -m "modificado archivo 1.txt"**
 
-![modificado archivo 1txt](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\modificado archivo 1txt.png)
+![modificado archivo 1txt](https://github.com/alfonsops/campusciff/tree/master/Capturas/modificado archivo 1txt.png)
 
 # Ejercicio 2.9
 ## 1
@@ -112,7 +112,7 @@ A continuación, se edita el archivo de la siguiente forma:
 
 ## 2
 **git list**
-![listado](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\listado de commits con ramas y tags.png)
+![listado](https://github.com/alfonsops/campusciff/tree/master/Capturas/listado de commits con ramas y tags.png)
 
 ## 3
 **git branch -d v0.2**
@@ -120,15 +120,15 @@ A continuación, se edita el archivo de la siguiente forma:
 # Ejercicio 2.10
 ## 1
 Añadida foto de perfil:
-![foto perfil](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\añadida foto perfil.png)
+![foto perfil](https://github.com/alfonsops/campusciff/tree/master/Capturas/añadida foto perfil.png)
 
 ## 2
 Activado doble factor de autentificación
-![activado](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\activado doble factor autentificacion.png)
+![activado](https://github.com/alfonsops/campusciff/tree/master/Capturas/activado doble factor autentificacion.png)
 
 ## 3
 Clave pública (ya realizado en clase)
-![clave publica](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\clave publica.png)
+![clave publica](https://github.com/alfonsops/campusciff/tree/master/Capturas/clave publica.png)
 
 # Ejercicio 2.11
 Realizado (se puede comprobar en GitHub)
@@ -220,23 +220,23 @@ para marcoscortina:
 
 ## 4
 Pull request & compare para marquezjr
-![pull request & compare](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\compare & pull request.png)
+![pull request & compare](https://github.com/alfonsops/campusciff/tree/master/Capturas/compare & pull request.png)
 
 Pull request & compare para marcoscortina
-![pull request & compare](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\compare & pull request 2.png)
+![pull request & compare](https://github.com/alfonsops/campusciff/tree/master/Capturas/compare & pull request 2.png)
 
 
 # Se añaden los ficheros restantes y se suben los cambios a github:
 
 Se vuelve a la rama master y se realiza:
 
-![cambios restantes](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios restantes.png)
+![cambios restantes](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios restantes.png)
 
-![cambios finales1](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales1.png)
+![cambios finales1](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales1.png)
 
-![cambios finales2](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales2.png)![cambios finales2](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales2.png)
+![cambios finales2](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales2.png)![cambios finales2](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales2.png)
 
-![cambios finales3](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales3.png)
+![cambios finales3](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales3.png)
 
 ![cambios finales4](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales4.png)
 
