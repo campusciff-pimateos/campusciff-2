@@ -87,24 +87,24 @@ Da fallo por conflicto:
 **git branch --merged**
 
 Se obtiene la rama master:
-![ramas con merge](https://github.com/alfonsops/campusciff/tree/master/Capturas/ramas con merge.png)
+![ramas con merge](https://github.com/alfonsops/campusciff/blob/master/Capturas/ramas%20con%20merge.png)
 
 **git branch --no-merged**
 
 Se obtiene la rama v0.2:
-![ramas sin merge](https://github.com/alfonsops/campusciff/tree/master/Capturas/ramas sin merge.png)
+![ramas sin merge](https://github.com/alfonsops/campusciff/blob/master/Capturas/ramas%20sin%20merge.png)
 
 ## 5
 **vim 1.txt**
 
 A continuación, se edita el archivo de la siguiente forma:
-![modificado archivo con conflicto](https://github.com/alfonsops/campusciff/tree/master/Capturas/modificado archivo con conflicto.png)
+![modificado archivo con conflicto](https://github.com/alfonsops/campusciff/blob/master/Capturas/modificado%20archivo%20con%20conflicto.png)
 
 **git add 1.txt**
 
 **git commit -m "modificado archivo 1.txt"**
 
-![modificado archivo 1txt](https://github.com/alfonsops/campusciff/tree/master/Capturas/modificado archivo 1txt.png)
+![modificado archivo 1txt](https://github.com/alfonsops/campusciff/blob/master/Capturas/modificado%20archivo%201txt.png)
 
 # Ejercicio 2.9
 ## 1
@@ -112,7 +112,7 @@ A continuación, se edita el archivo de la siguiente forma:
 
 ## 2
 **git list**
-![listado](https://github.com/alfonsops/campusciff/tree/master/Capturas/listado de commits con ramas y tags.png)
+![listado](https://github.com/alfonsops/campusciff/blob/master/Capturas/listado%20de%20commits%20con%20ramas%20y%20tags.png)
 
 ## 3
 **git branch -d v0.2**
@@ -120,15 +120,15 @@ A continuación, se edita el archivo de la siguiente forma:
 # Ejercicio 2.10
 ## 1
 Añadida foto de perfil:
-![foto perfil](https://github.com/alfonsops/campusciff/tree/master/Capturas/añadida foto perfil.png)
+![foto perfil](https://github.com/alfonsops/campusciff/blob/master/Capturas/a%C3%B1adida%20foto%20perfil.png)
 
 ## 2
 Activado doble factor de autentificación
-![activado](https://github.com/alfonsops/campusciff/tree/master/Capturas/activado doble factor autentificacion.png)
+![activado](https://github.com/alfonsops/campusciff/blob/master/Capturas/activado%20doble%20factor%20autentificacion.png)
 
 ## 3
 Clave pública (ya realizado en clase)
-![clave publica](https://github.com/alfonsops/campusciff/tree/master/Capturas/clave publica.png)
+![clave publica](https://github.com/alfonsops/campusciff/blob/master/Capturas/clave%20publica.png)
 
 # Ejercicio 2.11
 Realizado (se puede comprobar en GitHub)
@@ -220,24 +220,24 @@ para marcoscortina:
 
 ## 4
 Pull request & compare para marquezjr
-![pull request & compare](https://github.com/alfonsops/campusciff/tree/master/Capturas/compare & pull request.png)
+![pull request & compare](https://github.com/alfonsops/campusciff/blob/master/Capturas/compare%20%26%20pull%20request.png)
 
 Pull request & compare para marcoscortina
-![pull request & compare](https://github.com/alfonsops/campusciff/tree/master/Capturas/compare & pull request 2.png)
+![pull request & compare](https://github.com/alfonsops/campusciff/blob/master/Capturas/compare%20%26%20pull%20request%202.png)
 
 
 # Se añaden los ficheros restantes y se suben los cambios a github:
 
 Se vuelve a la rama master y se realiza:
 
-![cambios restantes](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios restantes.png)
+![cambios restantes](https://github.com/alfonsops/campusciff/blob/master/Capturas/cambios%20restantes.png)
 
-![cambios finales1](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales1.png)
+![cambios finales1](https://github.com/alfonsops/campusciff/blob/master/Capturas/cambios%20finales1.png)
 
-![cambios finales2](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales2.png)![cambios finales2](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales2.png)
+![cambios finales2](https://github.com/alfonsops/campusciff/blob/master/Capturas/cambios%20finales2.png)
 
-![cambios finales3](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales3.png)
+![cambios finales3](https://github.com/alfonsops/campusciff/blob/master/Capturas/cambios%20finales3.png)
 
-![cambios finales4](https://github.com/alfonsops/campusciff/tree/master/Capturas/cambios finales4.png)
+![cambios finales4](https://github.com/alfonsops/campusciff/blob/master/Capturas/cambios%20finales4.png)
 
 Se realiza un git add final para los archivos restantes y commit. A continuación, se realiza **git push origin master**
