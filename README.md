@@ -140,7 +140,7 @@ Realizado (se puede comprobar en GitHub)
 |Borja Moreno Pozo    | [Borja](https://github.com/bmpozo)   |
 |Carlos Saiz|[Carlos](https://github.com/Carsaiz)|
 |Juan José Diaz|[Juan](https://github.com/jjdiazl)|
- |Ramón Márquez|[Ramón](https://github.com/marquezjr)|
+|Ramón Márquez|[Ramón](https://github.com/marquezjr)|
 |Fran Rivas|[Fran](https://github.com/jrivax)|
 |Marcos|[Marcos](https://github.com/marcoscortina)
 
