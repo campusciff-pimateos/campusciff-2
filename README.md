@@ -234,4 +234,8 @@ Se vuelve a la rama master y se realiza:
 
 ![cambios finales1](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales1.png)
 
-![cambios finales2](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales2.png)
+![cambios finales2](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales2.png)![cambios finales2](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales2.png)
+
+![cambios finales3](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales3.png)
+
+![cambios finales4](C:\Users\usuario\Documents\trabajogit\campusciff\Capturas\cambios finales4.png)
